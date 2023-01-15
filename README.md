@@ -7,7 +7,7 @@
 I am Php Web Developer.
 I can create your business website according to your requirements in given time.
 
-Skills: PHP / Wordpress/ JS / HTML / CSS / Bootstrap 
+Skills: Javascript / React/ Node / Express / Tailwind / Bootstrap /  
 
 - 🔭 I’m currently working on Build Wordpress Plugin 
 - 🌱 I’m currently learning Laravel 
