@@ -4,23 +4,21 @@
 #### web Developer
 
 
-I am Php Web Developer.
-I can create your business website according to your requirements in given time.
+I am a Full stack Web Developer.
 
-Skills: Javascript / React/ Node / Express / Tailwind / Bootstrap /  
+Skills: Javascript / React / Angular / Node / Express / Tailwind / Bootstrap / MongoDb 
 
-- 🔭 I’m currently working on Build Wordpress Plugin 
-- 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on Github 
+- 🔭 I’m currently working on  Nexkraft limited
+- 🌱 I’m currently learning In Depth angular, node, react, express, php 
+- 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: https://takdirhossain.com/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Takdirhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/takdir-hossain-9a2902228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/takdir.hossain.332)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://takdirhossain.com/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takdirhossain)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Takdirhossain&show_icons=true)  
+
 
 
