@@ -6,7 +6,7 @@
 
 I am a Full stack Web Developer.
 
-Skills: Javascript / React / Angular / Node / Express / Tailwind / Bootstrap / MongoDb 
+Skills: Javascript / React / Angular / Node / Express / Tailwind / Bootstrap / Mysql / MongoDb 
 
 - 🔭 I’m currently working on  Nexkraft limited
 - 🌱 I’m currently learning In Depth angular, node, react, express, php 
