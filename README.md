@@ -31,15 +31,17 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- 🔭 I’m currently working on [wemerge](wemerge.photos)
 
+- 🌱 I’m currently learning **Laravel**
 
+- 👨‍💻 All of my projects are available at [https://takdirhossain.com/](https://takdirhossain.com/)
 
-</td><td valign="top" width="50%">
+- 📝 I regularly write articles on [https://takdirhossain.com/](https://takdirhossain.com/)
 
+- 💬 Ask me about **React, Angular, Express, Laravel**
 
-
-</td></tr></table>  
+- ⚡ Fun fact **I think I am funny** 
 
 <br/>  
 
