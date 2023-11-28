@@ -1,4 +1,4 @@
-![web Developer](https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/267230651_713405646714718_6512407864989449974_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGlKQ9qkvR6q26tqdkuLnnWtI-gKPQpfkO0j6Ao9Cl-Qz7MUH1QJrsNlrbZ8Vf1gmzW4lUN3DyhfuL_n2BBoiLm&_nc_ohc=sy9zkRG6VE0AX-_BZG8&_nc_ht=scontent.fdac11-1.fna&oh=00_AT9GmSf9lXCfPgBsOJ3fMkhk75CEjYkxIX4w1bA-oRACmw&oe=62648AED)
+![web Developer](https://media.licdn.com/dms/image/D5616AQEgSMu3Q4Xoeg/profile-displaybackgroundimage-shrink_200_800/0/1670533860833?e=2147483647&v=beta&t=vya0xZgvGizkRWw4XK_NsDFpMe76RA_v-e0cWfd9iZQ)
 
 ### Hi there 👋, My Name Is Takdir 
 #### web Developer
