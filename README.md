@@ -78,8 +78,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takdirhossain&show_icons=true&locale=en" alt="takdirhossain" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takdirhossain&" alt="takdirhossain" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takdirhossain&show_icons=true&locale=en&layout=compact" alt="takdirhossain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takdirhossain&" alt="takdirhossain" /></p>
+
 
 <br/>  
 
